@@ -1,13 +1,29 @@
 body {
   font-family:Arial, sans-serif;
+  line-height: 1.5;
+  max-width: 650px;
+  text-align: left;
+  background-color: rgb(250, 245, 255);
+  padding: 1em;
+  margin:auto
 }
 
-h2, h3, h4, h5, h6 {
+.italic { 
+  font-style: italic;
+}
+
+h2 {
   font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
 }
 
-h1 {'Black Ops One', Noto, Sana;
-  
-}
-body {line-height: 1.5;
+h1 {
+  font-family:'"Black-Ops-One-variant0", Tofu;'
  }
+  
+h1 {color: rgb(7, 7, 148);
+  text-align: center;
+  border-bottom: solid;}  
+ 
+
+
